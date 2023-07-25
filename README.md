@@ -16,3 +16,13 @@ Here are some ideas to get you started:
 -->
 
 [![Yuyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeliosZhao)](https://github.com/HeliosZhao/github-readme-stats)
+
+Contact Me:
+
+✉️ Email: yuyangzhao98@gmail.com
+
+🔗 Website: https://yuyangzhao.com
+
+:mag_right: Google Scholar: https://scholar.google.com/citations?user=u5M6XPAAAAAJ
+
+
